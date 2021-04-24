@@ -1,0 +1,6 @@
+module Pods_TUMTUM_TUMTUMTests {
+  umbrella header "Pods-TUMTUM-TUMTUMTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
